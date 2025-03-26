@@ -14,4 +14,4 @@ Hi, I'm Nguyễn Minh Nhựt, a full-stack developer specializing in Javascript.
 ---
 [![](https://visitcount.itsvg.in/api?id=NoobNhut&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
